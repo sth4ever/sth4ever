@@ -1,5 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Austin!
+Welcome to my GitHub profile! I'm a passionate full stack developer, specializing in JavaScript, TypeScript, Python, PHP and Ruby. I love creating solutions that make an impact and collaborating with like-minded individuals.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sth4ever&theme=onedark)]
-
-![Austin's github stats](https://github-readme-stats.vercel.app/api?username=sth4ever&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+🚀 About Me
+🎯 Current Focus: Upwork
+💡 Interests: Web Development, Soccer (Messi), Cooking
+🌟 Strengths: Time Managemnt, Mentorship, Soccer (CF) 
+📘 Currently Learning: AI
+📝 Blog/Portfolio: It is upgrading 🛠️
