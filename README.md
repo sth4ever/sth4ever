@@ -6,4 +6,4 @@ Welcome to my GitHub profile! I'm a passionate full stack developer, specializin
 - 💡 Interests: Web Development, Soccer (Messi), Cooking
 - 🌟 Strengths: Time Managemnt, Mentorship, Soccer (CF) 
 - 📘 Currently Learning: AI
-- 📝 Blog/Portfolio: It is upgrading 🛠️
+- 📝 Blog/Portfolio: https://austin-hawk.vercel.app
